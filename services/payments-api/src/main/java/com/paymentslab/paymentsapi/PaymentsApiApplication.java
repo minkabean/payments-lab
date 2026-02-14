@@ -1,4 +1,4 @@
-package com.paymentslab.paymentsapi.payments;
+package com.paymentslab.paymentsapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.paymentpractice.payments_api;
+package com.paymentslab.paymentsapi.payments;
 
 import org.springframework.boot.test.context.TestConfiguration;
 import org.springframework.boot.testcontainers.service.connection.ServiceConnection;

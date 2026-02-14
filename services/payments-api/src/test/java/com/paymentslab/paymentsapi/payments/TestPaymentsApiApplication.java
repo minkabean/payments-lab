@@ -1,6 +1,8 @@
-package com.paymentpractice.payments_api;
+package com.paymentslab.paymentsapi.payments;
 
 import org.springframework.boot.SpringApplication;
+
+import com.paymentslab.paymentsapi.PaymentsApiApplication;
 
 public class TestPaymentsApiApplication {
 
