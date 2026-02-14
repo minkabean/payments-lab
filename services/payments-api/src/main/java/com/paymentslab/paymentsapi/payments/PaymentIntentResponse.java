@@ -1,4 +1,4 @@
-package com.paymentslab.paymentsapi.payments.dto;
+package com.paymentslab.paymentsapi.payments;
 
 
 import java.time.Instant;

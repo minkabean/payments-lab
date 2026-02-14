@@ -1,4 +1,4 @@
-package com.paymentslab.paymentsapi.payments.model;
+package com.paymentslab.paymentsapi.payments;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

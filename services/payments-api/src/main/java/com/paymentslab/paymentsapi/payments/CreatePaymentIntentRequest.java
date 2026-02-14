@@ -1,4 +1,4 @@
-package com.paymentslab.paymentsapi.payments.dto;
+package com.paymentslab.paymentsapi.payments;
 
 import jakarta.validation.constraints.Min;
 import jakarta.validation.constraints.NotBlank;

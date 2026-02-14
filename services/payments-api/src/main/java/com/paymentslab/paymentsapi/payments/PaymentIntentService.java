@@ -1,10 +1,10 @@
-package com.paymentslab.paymentsapi.payments.service;
+package com.paymentslab.paymentsapi.payments;
 
 import org.springframework.stereotype.Service;
-import com.paymentslab.paymentsapi.payments.dto.PaymentIntentResponse;
-import com.paymentslab.paymentsapi.payments.model.PaymentIntentEntity;
-import com.paymentslab.paymentsapi.payments.repository.PaymentIntentRepository;
 
+import com.paymentslab.paymentsapi.payments.PaymentIntentEntity;
+import com.paymentslab.paymentsapi.payments.PaymentIntentRepository;
+import com.paymentslab.paymentsapi.payments.PaymentIntentResponse;
 
 import java.time.Instant;
 import java.util.UUID;
